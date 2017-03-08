@@ -1,7 +1,7 @@
 
 ## Overview
 Java app to translate numbers from one representation to other
-# current features:
+### current features:
     1. integers into words
     2. roman numerals into integers
 
